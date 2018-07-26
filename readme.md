@@ -10,7 +10,7 @@ Appendix:
 4. crocodile (triple_img_151.jpg)
 5. dragon (triple_img_173.jpg)
 6. eye (triple_img_186.jpg)
-7. monkey (triple_img_334.jpg)
+7. owl (triple_img_359.jpg)
 8. revolver (triple_img_433.jpg)
 9. space shuttle (triple_img_502.jpg)
 10. train (triple_img_590.jpg)
